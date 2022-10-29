@@ -8,6 +8,11 @@
       "ignored": "true",
       "type": "secrets.keyVault"
     },
+    "storage1": {
+      "ignored": "true",
+      "type": "storage",
+      "connectionId": "AzureBlob:BlobConnectionString"
+    },
     "apis1": {
       "ignored": "True",
       "type": "apis"

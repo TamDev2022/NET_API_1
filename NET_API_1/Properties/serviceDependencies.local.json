@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "ignored": "true",
+      "type": "identityapp"
+    },
+    "secrets1": {
+      "ignored": "true",
+      "type": "secrets.keyVault"
+    },
+    "apis1": {
+      "ignored": "True",
+      "type": "apis"
+    }
+  }
+}
